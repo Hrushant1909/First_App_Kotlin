@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity() {
         hotbutton.setOnClickListener {
             linearLayout.setBackgroundColor(R.color.red)
         }
-
+//Hello this is my first project and i am doing first changes and committing
         }
     }
